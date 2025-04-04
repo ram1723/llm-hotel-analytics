@@ -1,0 +1,14 @@
+[
+  {
+    "query": "Show me total revenue for July 2017.",
+    "expected": "Total revenue for July 2017 is approximately XYZ."
+  },
+  {
+    "query": "Which locations had the highest booking cancellations?",
+    "expected": "Top countries with most cancellations: PRT, GBR, FRA..."
+  },
+  {
+    "query": "What is the average price of a hotel booking?",
+    "expected": "The average booking price is around XYZ EUR."
+  }
+]
